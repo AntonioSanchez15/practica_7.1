@@ -39,5 +39,5 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: | #
-            AntonioSanchez15/practica_7.1:latest 
-            ghcr.io/AntonioSanchez15/practica_7.1:latest
+            antoniosanchez15/practica_7.1:latest 
+            ghcr.io/antoniosanchez15/practica_7.1:latest
